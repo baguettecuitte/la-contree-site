@@ -2,4 +2,4 @@ User-agent: *
 
 Allow: /
 
-Sitemap: https://baguettecuitte.github.io/la-contree-site/sitemap.xml
+Sitemap: https://lacontreebot.fr/sitemap.xml
